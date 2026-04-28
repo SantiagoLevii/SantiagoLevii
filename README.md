@@ -1,50 +1,46 @@
-## Hey, I'm Santiago 👋
+<h3 align="center">Santiago Levi</h3>
+<p align="center"><em>Cloud Architect · Backend Engineer · Linux nerd since '10</em></p>
 
-Cloud Architect & Backend Engineer based in Buenos Aires, with 16 years building systems that actually hold up in production. I work across the full stack — from tuning Linux kernels to designing cloud infrastructure on AWS.
-
-I care about systems that are well-built, well-documented, and easy to reason about.
-
-<p>
-  <a href="https://linkedin.com/in/santiago-levi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:levi.dev.ss@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/santiago-levi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:levi.dev.ss@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### What I work with
+I design cloud infrastructure and build backend systems. 16 years in, still happiest debugging something at 2am with a terminal open.
 
-**Cloud & Infra** · AWS (ECS, Lambda, RDS, VPC, IAM, S3) · Terraform · Docker · Kubernetes · Ansible  
-**Backend** · Python (Django, FastAPI) · Java (Spring Boot) · PostgreSQL · Redis · REST & GraphQL APIs  
-**AI/LLM** · LangChain · CrewAI · RAG pipelines · Agentic workflows · Prompt engineering  
-**Linux** · 15+ years — kernel tuning, Systemd, performance diagnostics, apt/dpkg, deb packaging  
-**DevOps** · GitHub Actions · GitLab CI · CI/CD pipelines · Monitoring (Prometheus, Grafana, ELK)
+Based in Buenos Aires. Open to remote work worldwide.
 
 ---
 
-### Certifications
-
-✔ AWS Certified Cloud Practitioner  
-✔ Linux Foundation Certified IT Associate (LFCA)  
-⏳ AWS Solutions Architect – Associate *(in progress)*
-
----
-
-### Education
-
-**Universidad de Buenos Aires (UBA)** — B.Sc. Computer Science  
-**Universidad Tecnológica Nacional (UTN)** — Technical Degree in Programming
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLevii&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=0969da&text_color=57606a&bg_color=00000000" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLevii&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a&bg_color=00000000" height="165" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-</details>
 
 ---
 
-<sub>From kernel to cloud — every layer matters.</sub>
+**Day to day:** Django · FastAPI · Spring Boot · REST & GraphQL APIs · Microservices  
+**Infra:** AWS (ECS, Lambda, RDS, VPC) · Terraform · K8s · Ansible · CI/CD  
+**Deep end:** Kernel tuning · Systemd · Performance diagnostics · 15+ years on Linux  
+**Currently into:** LLM integration · LangChain · Agentic workflows · RAG pipelines
+
+---
+
+`AWS Cloud Practitioner` · `LFCA` · `AWS Solutions Architect – Associate (in progress)`
+
+**UBA** — B.Sc. Computer Science &nbsp;·&nbsp; **UTN** — Technical Degree in Programming
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLevii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF" height="160" />&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoLevii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=58A6FF&sideNums=8b949e&dates=8b949e" height="160" />
+</p>
