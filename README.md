@@ -37,10 +37,3 @@ Based in Buenos Aires. Open to remote work worldwide.
 `AWS Cloud Practitioner` · `LFCA` · `AWS Solutions Architect – Associate (in progress)`
 
 **UBA** — B.Sc. Computer Science &nbsp;·&nbsp; **UTN** — Technical Degree in Programming
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLevii&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF" height="160" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantiagoLevii&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&currStreakNum=58A6FF&sideNums=8b949e&dates=8b949e" height="160" />
-</p>
