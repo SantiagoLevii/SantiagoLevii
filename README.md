@@ -10,7 +10,7 @@
 
 I design cloud infrastructure and build backend systems. 16 years in, still happiest debugging something at 2am with a terminal open.
 
-Based in Buenos Aires. Open to remote work worldwide.
+🇦🇷 Buenos Aires → 🇪🇸 Barcelona (2027) · Full-time · Remote / Hybrid
 
 ---
 
